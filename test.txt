@@ -1,4 +1,8 @@
+bug1
+line 1
+line 2
+line 3
+line 4 bug1
 Test main branch file
-limne m1
-linme 2
-linme 3
+line 2
+line 3 main
